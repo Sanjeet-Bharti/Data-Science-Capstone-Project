@@ -1,6 +1,6 @@
 pandas
 numpy
-joblit
+joblib
 scikit-learn
 matplotlib
 seaborn
